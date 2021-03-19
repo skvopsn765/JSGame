@@ -1,0 +1,2 @@
+# JSGame
+simple JavaScript game
